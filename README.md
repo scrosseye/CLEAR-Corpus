@@ -12,3 +12,5 @@ Crossley, S. A., Heintz, A., Choi, J., Batchelor, J., Karimi, M., & Malatinszky,
 Crossley, S. A., Heintz, A., Choi, J., Batchelor, J., & Karimi, M. (2021). The CommonLit Ease of Readability (CLEAR) Corpus. Proceedings of the 14th International Conference on Educational Data Mining (EDM). Paris, France.
 
 [EDM21_paper_35.pdf](https://github.com/scrosseye/CLEAR-Corpus/files/8268908/EDM21_paper_35.pdf)
+
+The data is provided under a CC BY-NC-SA 4.0 DEED Attribution-NonCommercial-ShareAlike 4.0 International license (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
